@@ -82,14 +82,8 @@ The main objective of this project is to:
 <img width="1276" height="705" alt="Summary_page" src="https://github.com/user-attachments/assets/6efca704-7cf8-43af-aed5-d9d6c4369a1f" />
 
 
-
-
-
----
-
 💡 *Open to feedback, collaborations, or data analytics opportunities!*  
 
----
 
 ### 🔖 Tags
 #PowerBI #DataAnalytics #BankingDashboard #PythonEDA  
