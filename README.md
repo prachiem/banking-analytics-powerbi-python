@@ -3,14 +3,11 @@
 
 I'm excited to share my **Banking Data Analysis Dashboard**, built using **Python (EDA) and Power BI**, designed to analyze customer financial behavior, loan trends, and deposit insights through interactive visuals and key performance metrics.
 
----
 
 ## 📌 Dataset Used
 Banking dataset containing customer financial and demographic details, including loans, deposits, income, and account types.
-
 - Includes structured financial data for analysis and visualization
 
----
 
 ## 🔍 Dataset View
 The dataset includes:
@@ -21,8 +18,6 @@ The dataset includes:
 - Banking Relationship (Private, Retail, Commercial, Institutional)  
 - Account Types (Savings, Checking)  
 - Occupation & Nationality  
-
----
 
 ## 📊 Key Insights at a Glance
 
@@ -37,8 +32,6 @@ The dataset includes:
 - ✅ Loan by Occupation  
 - ✅ Banking Relationship Analysis  
 
----
-
 ## 📈 Dashboard View
 
 - Interactive filters (Year, Gender, Banking Relationship)  
@@ -47,8 +40,6 @@ The dataset includes:
 - Occupation-based financial insights  
 - Nationality-wise distribution  
 - KPI cards for quick overview  
-
----
 
 ## 🛠 Tools & Techniques Used
 
@@ -65,8 +56,6 @@ The dataset includes:
 - Interactive Filters & Slicers  
 - Data Visualization  
 
----
-
 ## 🎯 Objective
 The main objective of this project is to:
 
@@ -76,7 +65,6 @@ The main objective of this project is to:
 - Support data-driven decision making in banking  
 - Build an end-to-end data analytics workflow  
 
----
 
 ## 💡 Project Highlights
 
@@ -85,7 +73,6 @@ The main objective of this project is to:
 - Business-focused insights generation  
 - Real-world financial analytics use case  
 
----
 
 ## 🖼️ Dashboard Preview
 
